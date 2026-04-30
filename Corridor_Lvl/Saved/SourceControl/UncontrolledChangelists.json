@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/FirstPerson/Blueprints/Checkpoint.uasset",
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/9W/94CE7TMWRU5OFHTKIM3DT7.uasset",
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/FirstPerson/Blueprints/DeadZone.uasset",
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/74/1D71J4MPBHXX7RY0JRM4L5.uasset",
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/L7/PGKOG4LNFI70XXC82ZVWI2.uasset",
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/U1/74I5QHC9UW18IW8TMO3M12.uasset",
+				"C:/Users/xritc/OneDrive/Desktop/UEProjects/UE_Corridor_Lvl/Corridor_Lvl/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DG/IQG35HHX0SO5BF816G0WNA.uasset"
+			]
+		}
+	]
+}
